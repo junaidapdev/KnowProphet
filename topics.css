@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Bangers&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bangers&family=Josefin+Sans:ital,wght@0,400;0,500;0,600;1,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Righteous", cursive;
+}
+.container .appname {
+    /* KnowProphet. */
+    display: flex;
+    justify-content: center;
+    margin-top: 4%;
+    color: #a54703;
+}
+.container .appname img {
+    width: 36px;
+}
+.container .buttons {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+    margin-top: 28px;
+    line-height: 75px;
+}
+.container .to1 button {
+    background: rgba(173, 75, 4, 0.94);
+    border-radius: 11px;
+    height: 135px;
+    width: 300px;
+    font-size: 27px;
+    font-family: "Bangers", cursive;
+    font-weight: bold;
+    border: none;
+    margin-top: 50px;
+    color: white;
+    font-family: "Khula";
+}
