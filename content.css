@@ -24,11 +24,30 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
     padding-top: 35px;
     padding-right: 11px;
     padding-left: 40px;
     font-family: "Manjari", sans-serif;
 }
+.container .questions .que1 {
+    background: #fde8cd;
+    padding: 20px;
+    border-radius: 17px;
+}
 .container .questions .que1 h3 {
-    color: red;
+    color: #000;
+}
+
+.container .questions .que1 .mc {
+    color: #433520;
+    margin: 20px;
+}
+.container .questions .que1 .mc h4 {
+    color: #433520;
+    margin: 10px;
+}
+
+.container .questions .que1 details {
+    color: #05a300;
 }
