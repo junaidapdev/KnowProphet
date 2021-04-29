@@ -6,15 +6,17 @@
     padding: 0;
     font-family: "Righteous", cursive;
 }
-main {
-    background-image: url("background.jpg");
+.container {
+    background: url("./img/madeena-bg.jpeg");
     height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .container .appname1 {
     /* KnowProphet. */
     display: flex;
     justify-content: center;
-    margin-top: 4%;
     color: #a54703;
 }
 .container .appname1 img {
