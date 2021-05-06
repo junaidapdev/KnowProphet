@@ -49,5 +49,8 @@
 }
 
 .container .questions .que1 details {
-    color: #05a300;
+    background-color: rgb(53, 138, 27);
+    color: #fff;
+    border-radius: 5px;
+    padding: 5px;
 }
