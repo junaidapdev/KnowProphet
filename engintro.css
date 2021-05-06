@@ -18,6 +18,10 @@
     display: flex;
     justify-content: center;
     color: #a54703;
+    padding-top: 281px;
+    padding-bottom: 85px;
+    font-size: 43px;
+    color: white;
 }
 .container .appname1 img {
     width: 36px;
