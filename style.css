@@ -19,8 +19,8 @@
     color: #a54703;
     font-family: "Khula";
 }
-.container .appname img {
-    width: 36px;
+.container .appname h2 span {
+    font-size: 20px;
 }
 
 .container .selectlang {
